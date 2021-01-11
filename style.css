@@ -8,3 +8,19 @@
 .btn-pink {
   background-color: #ff2278;
 }
+.cat1 {
+  background-color: #ffa500;
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+.cat2 {
+  background-color: #da70d6;
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+
+.cat3 {
+  background-color: #0000ff;
+  border-radius: 10px;
+  padding: 10px 30px;
+}
