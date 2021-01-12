@@ -3,6 +3,7 @@ nav ul li a {
 }
 
 .bg-pinky {
+  border-radius: 10px;
   background-color: #fceae8 !important;
 }
 
