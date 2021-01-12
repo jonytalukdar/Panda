@@ -1,3 +1,7 @@
+nav ul li a {
+  font-size: 18px;
+}
+
 .bg-pinky {
   background-color: #fceae8 !important;
 }
@@ -6,6 +10,7 @@
   color: #ff2278;
 }
 .btn-pink {
+  color: white;
   background-color: #ff2278;
 }
 .cat1 {
@@ -23,4 +28,10 @@
   background-color: #0000ff;
   border-radius: 10px;
   padding: 10px 30px;
+}
+
+.card {
+  border: none;
+  border-radius: 10px !important;
+  box-shadow: 5px 5px 10px lightgray !important;
 }
